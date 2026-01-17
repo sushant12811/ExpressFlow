@@ -17,11 +17,10 @@
  6. Delete individual expense or clear all data expenses.
  
  ## ScreenShots
- 
-/Users/sushantdhakal/Desktop/1.png
-/Users/sushantdhakal/Desktop/2.png
-/Users/sushantdhakal/Desktop/3.png
-/Users/sushantdhakal/Desktop/4.png
+ <img width="1206" height="2622" alt="2" src="https://github.com/user-attachments/assets/03073d17-29eb-4cd5-9030-7d89577c9355" />
+<img width="1206" height="2622" alt="1" src="https://github.com/user-attachments/assets/3003ec29-674a-465a-b2ec-2ade00301a98" />
+<img width="1206" height="2622" alt="3" src="https://github.com/user-attachments/assets/feb5f7f0-14c3-4e4c-bed0-e4e9251433b0" />
+<img width="1206" height="2622" alt="4" src="https://github.com/user-attachments/assets/0c92a918-2533-4de5-884f-46be46affcbd" />
 
 ## Installation
 Clone the repository:
