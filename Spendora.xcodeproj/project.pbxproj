@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0213C0EE2F1D7BB100C28643 /* SpendoraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0213C0ED2F1D7BB100C28643 /* SpendoraApp.swift */; };
 		0294541C2F15EB3800074252 /* ExpenseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029454112F15EB3800074252 /* ExpenseModel.swift */; };
 		0294541D2F15EB3800074252 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029454152F15EB3800074252 /* ContentView.swift */; };
 		0294541E2F15EB3800074252 /* ExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029454162F15EB3800074252 /* ExpenseView.swift */; };
-		0294541F2F15EB3800074252 /* ExpenseFlowApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029454192F15EB3800074252 /* ExpenseFlowApp.swift */; };
 		029454202F15EB3800074252 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 029454132F15EB3800074252 /* Preview Assets.xcassets */; };
 		029454212F15EB3800074252 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 029454182F15EB3800074252 /* Assets.xcassets */; };
 		029454232F15EBBF00074252 /* ExpenseRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 029454222F15EBBF00074252 /* ExpenseRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0213C0ED2F1D7BB100C28643 /* SpendoraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpendoraApp.swift; sourceTree = "<group>"; };
 		029454112F15EB3800074252 /* ExpenseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseModel.swift; sourceTree = "<group>"; };
 		029454132F15EB3800074252 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		029454152F15EB3800074252 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		029454162F15EB3800074252 /* ExpenseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseView.swift; sourceTree = "<group>"; };
 		029454182F15EB3800074252 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		029454192F15EB3800074252 /* ExpenseFlowApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseFlowApp.swift; sourceTree = "<group>"; };
 		029454222F15EBBF00074252 /* ExpenseRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseRowView.swift; sourceTree = "<group>"; };
 		029E05242EA308D7007B5B71 /* Spendora.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spendora.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -80,7 +80,7 @@
 				029454172F15EB3800074252 /* View */,
 				029454142F15EB3800074252 /* Preview Content */,
 				029454182F15EB3800074252 /* Assets.xcassets */,
-				029454192F15EB3800074252 /* ExpenseFlowApp.swift */,
+				0213C0ED2F1D7BB100C28643 /* SpendoraApp.swift */,
 			);
 			path = ExpenseFlow;
 			sourceTree = "<group>";
@@ -181,7 +181,7 @@
 				0294541D2F15EB3800074252 /* ContentView.swift in Sources */,
 				0294541E2F15EB3800074252 /* ExpenseView.swift in Sources */,
 				029454232F15EBBF00074252 /* ExpenseRowView.swift in Sources */,
-				0294541F2F15EB3800074252 /* ExpenseFlowApp.swift in Sources */,
+				0213C0EE2F1D7BB100C28643 /* SpendoraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -318,10 +318,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ExpenseFlow/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = Spendora;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -347,10 +348,11 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ExpenseFlow/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = Spendora;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

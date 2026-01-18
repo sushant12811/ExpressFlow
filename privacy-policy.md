@@ -1,12 +1,12 @@
-# Privacy Policy for ExpressFlow
+# Privacy Policy for Spendora
 
 Effective Date: January 16, 2026
 
-ExpressFlow respects your privacy. This Privacy Policy explains how information is handled when you use the ExpressFlow mobile application.
+Spendora respects your privacy. This Privacy Policy explains how information is handled when you use the ExpressFlow mobile application.
 
 # 1. Information Collection
 
-ExpressFlow does not collect, store, transmit, or share any personal data.
+Spendora does not collect, store, transmit, or share any personal data.
 
 The app:
 
@@ -22,7 +22,7 @@ The app:
 
 # 2. Data Usage
 
-Since ExpressFlow does not collect any personal data:
+Since Spendora does not collect any personal data:
 
 - No data is processed on external servers
 
@@ -32,11 +32,11 @@ Since ExpressFlow does not collect any personal data:
 
 # 3. Third-Party Services
 
-ExpressFlow does not use any third-party services that collect user data.
+Spendora does not use any third-party services that collect user data.
 
 # 4. Children’s Privacy
 
-ExpressFlow does not knowingly collect any personal information from children under the age of 13 or from users of any age.
+Spendora does not knowingly collect any personal information from children under the age of 13 or from users of any age.
 
 # 5. Changes to This Policy
 
