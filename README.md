@@ -28,7 +28,7 @@
 
 ## Installation
 Clone the repository:
-git clone https://github.com/sushant12811/ExpenseFlow.git
+git clone https://github.com/sushant12811/Spendora.git
 
 Open Spendora.xcodeproj in Xcode
 
