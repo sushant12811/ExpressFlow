@@ -16,6 +16,8 @@
  
  6. Delete individual expense or clear all data expenses.
  
+ 7. Search expenses by category or name.
+ 
  ## ScreenShots
  <table>
  <tr>

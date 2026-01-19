@@ -131,6 +131,23 @@ struct ContentView: View {
                                     }
                                 }
                                 
+                                Button {
+                                    showAlert = true
+                                } label: {
+                                    if !filteredExpenses.isEmpty {
+                                        HStack{
+                                            Image(systemName: "trash.fill")
+                                            Text(filteredExpenses.count > 1 ? "Delete All" :"Delete")
+                                                .foregroundStyle(.red.opacity(0.7))
+                                                .font(.caption2)
+                                                .padding(8)
+                                                .background(.red.opacity(0.2))
+                                                .clipShape(Capsule())
+                                        }
+                                        
+                                    }
+                                   
+                                }
                                
                                 
                             }
@@ -192,27 +209,9 @@ struct ContentView: View {
                 }
                 .pickerStyle(.segmented)
 
-                HStack {
-                    Spacer()
-                    Button {
-                        showAlert = true
-                    } label: {
-                        if !filteredExpenses.isEmpty {
-                            Text(filteredExpenses.count > 1 ? "Delete All" :"Delete")
-                                .foregroundStyle(.red.opacity(0.7))
-                                .font(.caption2)
-                                .padding(8)
-                                .background(.red.opacity(0.2))
-                                .clipShape(Capsule())
-                            
-                        }
-                       
-                    }
-                    .disabled(filteredExpenses.isEmpty)
-                }
+                
             }
             .frame(maxWidth: .infinity)
-            .padding()
             .background(Color(.systemGroupedBackground))
 
             // MARK: List of expenses
