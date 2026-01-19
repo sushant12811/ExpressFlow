@@ -2,7 +2,7 @@
 
 Effective Date: January 16, 2026
 
-Spendora respects your privacy. This Privacy Policy explains how information is handled when you use the ExpressFlow mobile application.
+Spendora respects your privacy. This Privacy Policy explains how information is handled when you use the Spendora mobile application.
 
 # 1. Information Collection
 
